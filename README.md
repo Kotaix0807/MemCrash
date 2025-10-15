@@ -1,4 +1,4 @@
-#LEGAL NOTICE — MEMCRASH
+# LEGAL NOTICE — MEMCRASH
 
 This program was created solely for experimental purposes to intentionally cause extreme RAM usage.
 
