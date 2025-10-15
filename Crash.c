@@ -1,7 +1,7 @@
 /*
  * MemCrash - C Experiment
  *
- * ⚠️ WARNING / ADVERTENCIA
+ * WARNING / ADVERTENCIA
  *
  * This program repeatedly calls malloc() in an infinite loop to experiment
  * with pointers and memory management. Its execution may crash your system
